@@ -46,7 +46,7 @@ margin-top: -95px;
 #Logo{
     height: 90px;
     width: 90px;
-    margin-left: 1350px;
+    margin-left: 1390px;
     z-index: 100;
 }
 
@@ -61,8 +61,8 @@ margin-top: -95px;
 
 #xree{
     position: absolute;
-    margin-left: 180px;
-    margin-top: 20px;
+    margin-left: 120px;
+    margin-top: 30px;
     z-index: 100;
 }
 
@@ -362,11 +362,10 @@ margin-left: 650px;
 }
 
 #Vb{
-    margin-top: 275px;
+    margin-top: 225px;
 }
 
 #Vbb{
-    
     font-size: 10px;
 }
 

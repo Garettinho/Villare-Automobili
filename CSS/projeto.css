@@ -1,0 +1,448 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+
+@font-face{
+    font-family: Vougue;
+    src:url(/FONT/Vogue.ttf)
+}
+
+@font-face{
+    font-family: Plus;
+    src:url(/FONT/Plus/PlusJakartaSans-Italic-VariableFont_wght.ttf)
+}
+
+@font-face{
+    font-family: Play;
+    src:url(/FONT/Play/PlayfairDisplaySC-Regular.ttf)
+}
+
+@media (min-width:1400px){
+body{background-color: #36181E;}
+}
+#home{
+    width: 100%;
+    height: 703px;
+    background-image: url('/IMG/Capa2.jpg');
+    background-repeat: no-repeat;
+}
+#home2{
+    width: 100%;
+    height: 703px;
+    background-repeat: no-repeat;
+}
+
+#Fundo{
+opacity: 0.5;
+margin-top: -95px;
+
+}
+#Logo{
+    height: 90px;
+    width: 90px;
+    margin-left: 1350px;
+    z-index: 100;
+}
+
+#Menu{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    margin-top: 5px;
+    z-index: 100;
+    
+    }
+
+#xree{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 20px;
+    z-index: 100;
+}
+
+p{
+color: white;
+    display: inline;
+    font-size: 40px;
+margin:500px 0 0 80px;
+font-family: Vougue;
+}
+
+#T{
+    font-size: 80px;
+    
+}
+#I{
+     font-size: 80px;
+}
+
+.H1{
+
+     margin-top: 150px;
+}
+
+#c{
+     
+    font-size: 40px;
+}
+
+#P{
+    margin-top: 190px;
+    margin-left: 1100px;
+}
+
+#ç{
+    font-family: Vougue;
+    font-size: 20px;}
+
+#Serviços{
+height:704px;
+width:1536px ;
+}
+
+#Produtos{
+   height:704px;
+width:1536px ; 
+}
+
+#Contatos{
+    height:704px;
+width:1536px ;}
+
+#cc{
+    height:82px ;
+    width: 433px;
+    position: absolute;
+    margin-top: -600px;
+    padding-top: 25px;
+    padding-left: 130px;
+    background-color: #36181E;
+}
+
+#hist{
+    margin-top: 185px;
+    margin-left: 0px;
+    width: 0;
+    height: 0;
+}
+
+#ccc{
+    height:150px ;
+    width: 1300px;
+    position: absolute;
+    margin-top: -510px;
+    padding-top: 25px;
+    padding-left: 30px;
+    background-color: #542831;
+    font-size:20px;
+    font-family: Plus;
+}
+
+
+
+#cccc{
+      height:150px ;
+    width: 838px;
+    position: absolute;
+    margin-top: -190px;
+    padding-top: 25px;
+    padding-left: 30px;
+    background-color: #542831;
+    font-size:20px;
+    margin-left: 670px;
+    font-family: Plus;
+
+}
+
+#Fun{
+    height:82px ;
+    width: 433px;
+    position: absolute;
+    margin-top: -280px;
+    padding-top: 25px;
+    padding-left: 60px;
+    margin-left: 1070px;
+    background-color: #36181E;
+}
+
+#Dono{
+    height: 300px;
+    width: 300px;
+    margin-top: -160px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+#Desc{
+    margin-top: 40px;
+    font-size:40px ;
+    font-family: Vougue;
+    color: white;
+    margin-left: 450px;
+}
+
+#Car0{
+    height: 320px;
+    width: 320px;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+
+#Ds{
+    font-size:35px;
+    margin-top: 100px;
+    margin-left: 700px;
+    font-family: Play;
+}
+
+#Dg{
+    font-size:35px;
+    margin-top: 100px;
+    margin-left: 660px;
+    font-family: Play;
+}
+
+#Dr{
+text-decoration: underline;
+font-family: Play;
+font-size: 30px;
+margin-left: 680px;
+}
+
+#Pr{
+text-decoration: underline;
+font-family: Play;
+font-size: 40px;
+margin-left: 650px;
+
+}
+.Pr1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+     margin-top: 10px;
+}
+
+.Pr2{
+ display: flex;
+ justify-content: center;
+ justify-content: space-around;
+ margin-top: -10px;
+  padding-top: 100px;  
+}
+
+#P1{
+    height: 150px;
+    width: 150px;
+    
+}
+#P2{
+    height: 150px;
+    width: 150px;
+}
+#P3{
+    height: 150px;
+    width: 150px;
+}
+#P4{
+    height: 150px;
+    width: 150px;
+    
+}
+#P5{
+    height: 150px;
+    width: 150px;
+    
+}
+#P6{
+    height: 150px;
+    width: 150px;
+    
+}
+
+#PP1{
+    font-size:30px ;
+    font-family: Play;
+    margin-top: 50px;
+}
+
+#PP2{
+    font-size:30px ;
+    font-family: Play;
+    
+}
+ 
+#PP3{
+    font-size:30px ;
+    font-family: Play;
+    
+}
+#PP4{
+    font-size:30px ;
+    font-family: Play;
+    
+}
+#PP5{
+    font-size:30px ;
+    font-family: Play;
+    
+}
+#PP6{
+    font-size:30px ;
+    font-family: Play;
+    
+}
+
+#ÇÇ1{
+    margin-top: 20px;
+    
+}
+
+#ÇÇ2{
+    margin-top: -40px;
+    margin-left: 550px;
+}
+
+#ÇÇ3{
+    margin-top: -40px;
+    margin-left: 1080px;
+}
+
+#ÇÇ4{
+    margin-top: 20px;
+    
+}
+
+#ÇÇ5{
+    margin-top: -40px;
+    margin-left: 550px;
+}
+
+#ÇÇ6{
+    margin-top: -40px;
+    margin-left: 1080px;
+}
+
+#CT{
+    margin-top:50px ;
+}
+#CTT{
+    font-size: 40px;
+     font-family: Play;
+}
+#BR{
+    width:80px ;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-family: Play;
+}
+
+#BR1{
+
+    margin-top: -65px;
+    margin-left: 110px;
+    
+
+}
+
+
+#BRR{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-family: Play;
+    text-decoration: underline;
+}
+
+#Vb{
+    margin-top: 275px;
+}
+
+#Vbb{
+    
+    font-size: 10px;
+}
+
+#Ud{
+    margin-top:50px;
+}
+
+#Udd{
+    font-size: 35px;
+    font-family: Play;
+}
+
+#Va{
+margin-top: 0px;
+}
+
+#Vaa{
+font-size: 20px;
+font-family: Play;
+}
+
+#EC{
+    width: 472px;
+    height: 92px;
+    background-color: #320D13;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#ECC{
+    position: absolute;
+    height: 40px;
+    font-size: 30px;
+    margin: 20px 0 0 80px;
+    padding: 10px;
+    
+}
+
+#AR{
+  margin-top: 10px;
+  margin-left: 80px;
+}
+
+#ARR{
+    font-size: 20px;
+    font-family: Play;
+}
+
+#RD{
+    margin-left: 800px;
+    margin-top:-300px ;
+}
+
+#RDD{
+    font-family: Play;
+    font-size: 35px;
+}
+
+#ERR{
+    font-family: Play;
+    font-size: 20px;
+}
+
+#ER{
+    margin-left: 800px;
+}
+
+.R2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+    margin-left: 840px;
+}
+
+.R1{
+    width: 80px;
+    height: 80px;
+}

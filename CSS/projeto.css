@@ -29,7 +29,7 @@ body{background-color: #36181E;}
 #home{
     width: 100%;
     height: 703px;
-    background-image: url('/IMG/Capa2.jpg');
+    background-image: url('./IMG/Capa2.jpg');
     background-repeat: no-repeat;
 }
 #home2{

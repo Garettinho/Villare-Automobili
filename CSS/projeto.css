@@ -10,17 +10,17 @@ a{
 
 @font-face{
     font-family: Vougue;
-    src:url(/FONT/Vogue.ttf)
+    src:url(./FONT/Vogue.ttf)
 }
 
 @font-face{
     font-family: Plus;
-    src:url(/FONT/Plus/PlusJakartaSans-Italic-VariableFont_wght.ttf)
+    src:url(./FONT/Plus/PlusJakartaSans-Italic-VariableFont_wght.ttf)
 }
 
 @font-face{
     font-family: Play;
-    src:url(/FONT/Play/PlayfairDisplaySC-Regular.ttf)
+    src:url(./FONT/Play/PlayfairDisplaySC-Regular.ttf)
 }
 
 @media (min-width:1400px){
